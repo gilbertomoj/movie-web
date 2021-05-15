@@ -1,0 +1,11 @@
+.list{
+    display: flex;
+    flex-direction: wrap;
+}
+
+.rm{ 
+    margin: 3rem 3rem 0 3rem;
+}
+
+
+
